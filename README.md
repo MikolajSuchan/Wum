@@ -1,1 +1,1 @@
-#To jest inny stan umysłu
+To jest inny stan umysłu
